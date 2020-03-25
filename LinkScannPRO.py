@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #https://github.com/AngelSecurityTeam
 import sys,os,time,requests
 from bs4 import BeautifulSoup
